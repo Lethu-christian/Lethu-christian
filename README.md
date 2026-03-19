@@ -1,7 +1,18 @@
 # Hi there, I'm Lethu Christian
 
-### 🎓 Information Technology Graduate | Full-Stack Developer
+### 🎓 NQF Level 7 Information Technology Graduate | Full-Stack Developer
 Passionate about building scalable, user-centric web solutions. I specialize in modern JavaScript frameworks and robust backend integrations.
+
+---
+
+### 🏫 Education
+- **Bachelor of Information Technology in Business Systems** | The Independent Institute of Education
+- **Transcript Highlights:**
+  - 🚀 Web Development (Introduction): **95% (Pass with Distinction)**
+  - 💻 Programming 1A: **89% (Pass with Distinction)**
+  - 📊 Business Management 2A: **84% (Pass with Distinction)**
+  - 📈 Business Decision Modelling: **81% (Pass with Distinction)**
+  - 💡 Information Systems Strategy: **76% (Pass with Distinction)**
 
 ---
 
