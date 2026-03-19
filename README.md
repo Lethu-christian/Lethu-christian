@@ -1,4 +1,4 @@
-# Hi there, I'm Lethu Christian 👋
+# Hi there, I'm Lethu Christian
 
 ### 🎓 Information Technology Graduate | Full-Stack Developer
 Passionate about building scalable, user-centric web solutions. I specialize in modern JavaScript frameworks and robust backend integrations.
@@ -45,4 +45,4 @@ Passionate about building scalable, user-centric web solutions. I specialize in 
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/lethu-christian-a62100230/)
+- [LinkedIn](https://www.linkedin.com/in/lethukuphila-nkomo-07b0a628a/)
